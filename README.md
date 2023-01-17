@@ -31,7 +31,7 @@ DevOps Projects does all the work for the initial configuration of a DevOps pipe
 
 1. In the search box, type DevOps , and then select **DevOps Starter**. Then click on **Create DevOps Starter**
 
-    ![searchdevopsproject](image/searchdevopsstarter.png)
+    ![searchdevopsproject](image/searchdevopsstarter.PNG)
 
     ![createdevopsproject](image/createdevopsstarter.png)
 
