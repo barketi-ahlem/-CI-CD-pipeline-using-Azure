@@ -47,7 +47,7 @@ DevOps Projects does all the work for the initial configuration of a DevOps pipe
 
 1. The .NET samples include a choice of either the open source ASP.NET framework or the cross-platform .NET Core framework.  Select the .NET Core application framework. This sample is an ASP.NET Core MVC application. And also enable **Add a database** toggle to add the database to the application. When you’re done, choose Next.
 
-   ![aspnetframework](image/aspnetframework.png)
+   ![aspnetframework](image/aspnetframework.PNG)
 
 1. Web App on Windows is the default deployment target. You can optionally choose Virtual Machine also. When you're done, choose **Next**.
 
