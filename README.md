@@ -31,13 +31,13 @@ DevOps Projects does all the work for the initial configuration of a DevOps pipe
 
 1. In the search box, type DevOps , and then select **DevOps Starter**. Then click on **Create DevOps Starter**
 
-    ![searchdevopsproject](images/searchdevopsstarter.png)
+    ![searchdevopsproject](image/searchdevopsstarter.png)
 
-    ![createdevopsproject](images/createdevopsstarter.png)
+    ![createdevopsproject](image/createdevopsstarter.png)
 
 1. By default DevOps Starter project setup with GitHub. Click on change settings **here** to change the destination to Azure DevOps and click **Done**
     
-    ![](images/changesettings.png)
+    ![](image/changesettings.png)
 
 
 1. Now select the **.NET** sample application and click **Next**. 
